@@ -21,7 +21,7 @@ This repository focuses on improving the safety of autonomous vehicles through t
 git clone https://github.com/nagasriramnani/Safety-autonomous-driving-Dense-Deep-reinforcement-learning-Highway-env.git
 
 
-- **Install dependencies:**
+- **2.Install dependencies:**
 -```conda create --name highwayenv python==3.9```  
 - ```pip install tensorflow```
 - ```pip install gymnasium```
@@ -36,8 +36,8 @@ git clone https://github.com/nagasriramnani/Safety-autonomous-driving-Dense-Deep
 ## Usage
 3. activate conda environmet using
    conda activate your-env-name
-5.To check the environment how it works .py files are given in project directory
-3. After completing the basic setup to test the files, which are A2c_test.ipynb ,epslion_greeady.ipynb , PPo_test.ipynb.
+4.To check the environment how it works .py files are given in project directory
+5. After completing the basic setup to test the files, which are A2c_test.ipynb ,epslion_greeady.ipynb , PPo_test.ipynb.
 
 ## Features
 - **Dense Reinforcement Learning Integration:** Implement state-of-the-art reinforcement learning algorithms tailored for autonomous vehicle safety validation.
